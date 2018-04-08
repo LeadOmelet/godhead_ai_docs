@@ -9,8 +9,12 @@ Welcome to Alexstraza's Documentation....
 
 #### Seomthing 3.2
 
-## Something More
+# Something More
 
 Pleae see the [cool documentation](./More/cool.md) for more information.
 
 ## Something Wicked
+Tehehe
+
+## Something Cool
+Tehehe
