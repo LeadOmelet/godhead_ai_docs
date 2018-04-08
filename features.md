@@ -45,8 +45,9 @@ Examples of ways of setting reminders include (but are not limited to):
 "What time is it?"
 ```
 ```
-"What time is it on the east coast?" [Testing Needed.]
+"What time is it on the east coast?"
 ```
+\[Testing Needed.\]
 
 ## Do Not Disturb
 ```
