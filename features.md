@@ -19,3 +19,78 @@ Examples of ways of setting reminders include (but are not limited to):
 ```
 
 ## Adding Items to Lists and Collections
+
+
+## Days Until Point In Time
+```
+"How many hours until my next appointment?"
+```
+```
+"How many hours until her next appointment?"
+```
+```
+"How many days are there until Christmas?
+```
+
+## Knowledge of Entity
+```
+"Do you know John Smith?"
+```
+```
+"Do you know John?"
+```
+
+## Current Time Query
+```
+"What time is it?"
+```
+```
+"What time is it on the east coast?" [Testing Needed.]
+```
+
+## Do Not Disturb
+```
+"Set me status as busy for the next 2 hours."
+```
+```
+"Do not disturb me for the next 5 hours."
+```
+
+## Location/Explorer: Events Nearby
+```
+"Are there any events nearby?"
+```
+
+## Location/Explorer: Friends Nearby
+```
+"Are any of my friends nearby?"
+```
+
+## Holiday Look Up
+```
+"When is International Women's Day?"
+```
+
+## Searching The Web
+```
+"Look up how many dolphins it takes to fill a swimming pool!"
+```
+```
+"Google how to become a chess champion."
+```
+
+## Recommendations
+```
+"Do you have any movie recommendations?"
+```
+```
+"I need a book recommendation!"
+```
+
+## Location/Explorer: Request Directions
+```
+"Where is the closest fast food place?"
+```
+```
+"Could I get directions to the theatre?"
+```
