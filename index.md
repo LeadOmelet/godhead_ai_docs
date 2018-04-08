@@ -5,5 +5,9 @@ Welcome to Alexstraza's Documentation....
 
 ### Something 2
 
-#### Seomthing 3
+### Something 3
+
+#### Seomthing 3.2
+
+Pleae see the [cool documentation](../More/cool.md) for more information.
 
