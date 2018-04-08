@@ -9,7 +9,7 @@ As you look through the documentation, it is important to note that you do not h
 Examples of ways of setting reminders include (but are not limited to):
 ```
 ...
-"Remind me to take out the trash in 5 mins."
+\"Remind me to take out the trash in 5 mins.\"
 ...
 ```
 ```
@@ -45,7 +45,7 @@ Examples of ways of setting reminders include (but are not limited to):
 "What time is it?"
 ```
 ```
-"What time is it on the east coast?"
+\"What time is it on the east coast?\"
 ```
 \[Testing Needed.\]
 
