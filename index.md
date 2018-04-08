@@ -1,13 +1,13 @@
 # Introduction
 Welcome to Alexstraza's Documentation....
 
-## Something
+## What is Alexstraza?
+Alexstraza is an advanced chatbot that can help with a variety of tasks.
 
-### Something 2
+### Meeting Alexstraza
+Alexstraza can be found on a variety of platforms from Telegram to FaceBook Messenger.
 
-### Something 3
-
-#### Seomthing 3.2
+#### Profiles
 
 # Something More
 
