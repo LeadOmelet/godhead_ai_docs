@@ -8,6 +8,10 @@ Alexstraza is an advanced chatbot that can help with a variety of tasks.
 Alexstraza can be found on a variety of platforms from Telegram to FaceBook Messenger.
 
 #### Profiles
+Telegram: @alexstrazabot
+Kik: @alexstrazabot
+[Twitter](https://twitter.com/alexstrazaai)
+[FaceBook](https://www.facebook.com/alexstrazabot/)
 
 # Something More
 

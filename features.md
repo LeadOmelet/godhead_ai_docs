@@ -75,6 +75,7 @@ Examples of ways of setting reminders include (but are not limited to):
 ```
 "Look up how many dolphins it takes to fill a swimming pool!"
 ```
+
 ```
 "Google how to become a chess champion."
 ```
@@ -83,6 +84,7 @@ Examples of ways of setting reminders include (but are not limited to):
 ```
 "Do you have any movie recommendations?"
 ```
+
 ```
 "I need a book recommendation!"
 ```
@@ -91,6 +93,7 @@ Examples of ways of setting reminders include (but are not limited to):
 ```
 "Where is the closest fast food place?"
 ```
+
 ```
 "Could I get directions to the theatre?"
 ```
