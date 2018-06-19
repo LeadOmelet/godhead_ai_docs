@@ -20,3 +20,4 @@ Does Don't Starve support trading cards on Steam?
 
 When did the video game, Don't Starve, come out?
 
+Is Don't Starve available on Linux?
